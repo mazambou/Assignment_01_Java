@@ -13,16 +13,16 @@ public class Animal {
       this.favFood = favFood;
     }
         //  getters
-      public String getName(){
-        return name;
-      }
-      public String getColor(){
-      return color;
-      }
-      public int getAge(){
-      return age;
-      }
-      public String getFavFood(){
+  public String getName(){
+    return name;
+  }
+  public String getColor(){
+    return color;
+  }
+  public int getAge(){
+    return age;
+  }
+    public String getFavFood(){
   return favFood;
 }
         // setters
